@@ -6,3 +6,7 @@
 $ git init
 initialized empty get repository in /Users/Skills/Projects//Recipe-repository/.get/
 ```
+-[x] Run into a problem that I dont think is my fault 
+-[x] not sure what I did but I "fixxed" it 
+-[ ] fix the problem 
+-[x] Post to the help channel and find out it's my fault 
